@@ -51,5 +51,7 @@ document.querySelector("#AboutUs").addEventListener('click', function() {
 document.querySelector("#educationalResources").addEventListener('click', function() {
     window.location.href = 'https://bhavitha2402.github.io/educationalresources/'; // Replace 'another-page.html' with the path to the page you want to navigate to
 });
- 
- 
+
+ document.querySelector("#PharmacyStore").addEventListener('click', function() {
+    window.location.href = 'https://bhavitha2402.github.io/PharmacyStore/'; // Replace 'another-page.html' with the path to the page you want to navigate to
+});
