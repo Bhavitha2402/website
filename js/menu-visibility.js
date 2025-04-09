@@ -49,5 +49,7 @@ document.querySelector("#AboutUs").addEventListener('click', function() {
     window.location.href = 'https://bhavitha2402.github.io/AboutUs-page/'; // Replace 'another-page.html' with the path to the page you want to navigate to
 });
 document.querySelector("#educationalResources").addEventListener('click', function() {
-    window.location.href = ' '; // Replace 'another-page.html' with the path to the page you want to navigate to
+    window.location.href = 'https://bhavitha2402.github.io/educationalresources/'; // Replace 'another-page.html' with the path to the page you want to navigate to
 });
+ 
+ 
