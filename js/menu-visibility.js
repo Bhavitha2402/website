@@ -58,3 +58,12 @@ document.querySelector("#PharmacyStore").addEventListener('click', function() {
 document.querySelector("#chatbot").addEventListener('click', function() {
     window.location.href = 'https://bhavitha2402.github.io/chatbot/'; // Replace 'another-page.html' with the path to the page you want to navigate to
 });
+document.querySelector("#Instagram").addEventListener('click', function() {
+    window.location.href = 'https://www.instagram.com/glow.pathway_4?igsh=NjkwMHF3cHNwZ2xi'; // Replace 'another-page.html' with the path to the page you want to navigate to
+});
+document.querySelector("#Twitter").addEventListener('click', function() {
+    window.location.href = 'https://x.com/GlowPathway?t=DplP2BaoBV7TlA7QYxLoJQ&s=09'; // Replace 'another-page.html' with the path to the page you want to navigate to
+});
+document.querySelector("#youtube").addEventListener('click', function() {
+    window.location.href = 'https://bhavitha2402.github.io/chatbot/'; // Replace 'another-page.html' with the path to the page you want to navigate to
+});
